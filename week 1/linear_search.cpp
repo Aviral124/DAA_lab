@@ -1,7 +1,3 @@
-/*
-Time complexity =O(n)
-Space complexity=O(1)
-*/
 #include <iostream>
 using namespace std;
 void linear_search(int *a, int l, int num)
