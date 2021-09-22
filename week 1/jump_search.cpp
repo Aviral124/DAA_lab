@@ -1,7 +1,3 @@
-/*
-Time complexity =O(sqrt(n)) or O(n/m + (m-1))
-Space complexity=O(1)
-*/
 #include <iostream>
 #include <math.h>
 using namespace std;
