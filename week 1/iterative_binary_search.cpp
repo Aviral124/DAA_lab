@@ -1,7 +1,3 @@
-/*
-Time complexity =O(log n)
-Space complexity=O(1)
-*/
 #include <iostream>
 using namespace std;
 void binary_search(int *a, int l, int num)
